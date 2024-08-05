@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Colors -->
+    <color name="appPrimary">#FF1550F3</color>
+    <color name="background">#FFF7F9FC</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="iconBackground">#FFEFF1F3</color>
+    <color name= "appMainBackground">#FFEEF2FC</color>
+    <color name="statusBackground">#F0898989</color>
+    <color name="statusBackground2">#FFF4F4F4</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#FF898989</color>
+    <color name="grey2">#FF898989</color>
+
+    <color name="loginBackground">#FFEDF4FF</color>
+    <color name="background2">#FFEEF3FA</color>
+    <color name="red" >#FFD32F2F</color>
+    <!-- Severity Colors -->
+    <color name="medium">#FFFD791A</color>
+    <color name="mediumBackground">#FFFFF6F0</color>
+    <color name="low">#FFA4E3BE</color>
+    <color name="lowBackground">#FFF0FFF3</color>
+    <color name="high">#FFF40707</color>
+    <color name="highBackground">#FFFFF6F6</color>
+    <color name="urgent">#FFFF0000</color>
+    <color name="urgentBackground">#FFF8E6E6</color>
+
+
+    <!-- Ticket Colors -->
+    <color name="ticket">#FFE6EAFD</color>
+    <color name="task">#FFFAFFFB</color>
+
+    <!-- Ticket Status Colors -->
+    <color name="created">#FF1550F3</color>
+    <color name="createdBackground">#FFF7F9FC</color>
+    <color name="closed">#FFA60F0F</color>
+    <color name="closedBackground">#FFFFF1F1</color>
+    <color name="rejected">#FFCF4C4C</color>
+    <color name="rejectedBackground">#FFFFE8E7</color>
+    <color name="pending">#FFCF7B4C</color>
+    <color name="pendingBackground">#FFFFF2E7</color>
+</resources>
